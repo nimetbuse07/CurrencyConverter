@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  CurrencyConverter
-//
-//  Created by Nimet Atila on 29.09.2025.
-//
 
 import UIKit
 
